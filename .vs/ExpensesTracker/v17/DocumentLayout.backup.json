@@ -1,0 +1,875 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\controllers\\expensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\expensestrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\expensestrackercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\categorydtos\\responsecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\categorydtos\\responsecategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\budgetdtos\\responsebudgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\budgetdtos\\responsebudgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\budget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\budgetdtos\\requestbudgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\budgetdtos\\requestbudgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\categorydtos\\requestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\categorydtos\\requestcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\itemdtos\\responseitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\itemdtos\\responseitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\expensedtos\\responseexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\expensedtos\\responseexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\services\\recurringexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\services\\recurringexpenseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\recurringexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\recurringexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\repository\\categoryrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\unitofwork\\appunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\unitofwork\\appunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\expensedtos\\requestexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\expensedtos\\requestexpensedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\userdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\userdtos\\changepassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\userdtos\\changeemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\userdtos\\changeemaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\repository\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\repository\\recurringexpenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\repository\\recurringexpenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\configuration\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\configuration\\categoryconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\configuration\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\configuration\\regularexpenseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\configuration\\regularexpenseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\configuration\\itemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\configuration\\itemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\configuration\\expenseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\configuration\\expenseconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\repository\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\expensestracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\expensestracker.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\userdtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\userdtos\\signupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\repository\\expenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\repository\\expenserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\models\\configuration\\budgetconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\models\\configuration\\budgetconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\dto\\itemdtos\\requestitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\dto\\itemdtos\\requestitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919185255_CreateRegularExpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ExpensesTracker\\Migrations\\20250919185255_CreateRegularExpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250909152921_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250909152921_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250910160741_addspentinbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250910160741_addspentinbudget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250910140801_budgetcategoryanduserbudgetrelationsship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250910140801_budgetcategoryanduserbudgetrelationsship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250916142508_userbalanceandbudgetcurrentlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250916142508_userbalanceandbudgetcurrentlimit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250919212540_editregularexpensedbsetname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250919212540_editregularexpensedbsetname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250919212235_createregularexpensedbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250919212235_createregularexpensedbset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250919185352_createregularexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250919185352_createregularexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250920201110_createfreqtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250920201110_createfreqtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250921164757_updateuserrecurringexpnameandidnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250921164757_updateuserrecurringexpnameandidnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250922122234_updatepassconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250922122234_updatepassconstraint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|c:\\users\\hp\\source\\repos\\expensestracker\\expensestracker\\migrations\\20250922183421_updateitemexpenserelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D716E94-29CB-4C26-81A7-B9FB5D72BCB8}|ExpensesTracker\\ExpensesTracker.csproj|solutionrelative:expensestracker\\migrations\\20250922183421_updateitemexpenserelationship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:12:08.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ResponseCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\CategoryDTOs\\ResponseCategoryDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\CategoryDTOs\\ResponseCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\CategoryDTOs\\ResponseCategoryDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\CategoryDTOs\\ResponseCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T22:33:10.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpensesTrackerContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\ExpensesTrackerContext.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\ExpensesTrackerContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\ExpensesTrackerContext.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\ExpensesTrackerContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:53:34.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpenseController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\ExpenseController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\ExpenseController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\ExpenseController.cs",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\ExpenseController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:06:15.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwDIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:26:32.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:53:37.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ExpensesTracker\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T14:54:07.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ResponseBudgetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\BudgetDTOs\\ResponseBudgetDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\BudgetDTOs\\ResponseBudgetDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\BudgetDTOs\\ResponseBudgetDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\BudgetDTOs\\ResponseBudgetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T23:16:37.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Budget.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Budget.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Budget.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Budget.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Budget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:00:47.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RequestBudgetDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\BudgetDTOs\\RequestBudgetDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\BudgetDTOs\\RequestBudgetDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\BudgetDTOs\\RequestBudgetDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\BudgetDTOs\\RequestBudgetDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T15:52:31.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RequestCategoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\CategoryDTOs\\RequestCategoryDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\CategoryDTOs\\RequestCategoryDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\CategoryDTOs\\RequestCategoryDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\CategoryDTOs\\RequestCategoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T15:54:22.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResponseExpenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ExpenseDTOs\\ResponseExpenseDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\ExpenseDTOs\\ResponseExpenseDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ExpenseDTOs\\ResponseExpenseDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\ExpenseDTOs\\ResponseExpenseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:12:20.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ItemDTOs\\ResponseItemDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\ItemDTOs\\ResponseItemDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ItemDTOs\\ResponseItemDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\ItemDTOs\\ResponseItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:06:09.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Category.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:26:19.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecurringExpenseService.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Services\\RecurringExpenseService.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Services\\RecurringExpenseService.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Services\\RecurringExpenseService.cs",
+              "RelativeToolTip": "ExpensesTracker\\Services\\RecurringExpenseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:00:46.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecurringExpense.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\RecurringExpense.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\RecurringExpense.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\RecurringExpense.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\RecurringExpense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:11:27.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CategoryRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\CategoryRepo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Repository\\CategoryRepo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\CategoryRepo.cs",
+              "RelativeToolTip": "ExpensesTracker\\Repository\\CategoryRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:46:28.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Expense.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Expense.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T18:21:20.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\UnitOfWork\\AppUnitOfWork.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\UnitOfWork\\AppUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\UnitOfWork\\AppUnitOfWork.cs",
+              "RelativeToolTip": "ExpensesTracker\\UnitOfWork\\AppUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-24T22:30:25.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RequestExpenseDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ExpenseDTOs\\RequestExpenseDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\ExpenseDTOs\\RequestExpenseDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ExpenseDTOs\\RequestExpenseDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\ExpenseDTOs\\RequestExpenseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:04:26.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChangePasswordDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\ChangePasswordDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\UserDTOs\\ChangePasswordDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\ChangePasswordDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\UserDTOs\\ChangePasswordDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-26T12:25:37.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\User.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\User.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:05:33.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ChangeEmailDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\ChangeEmailDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\UserDTOs\\ChangeEmailDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\ChangeEmailDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\UserDTOs\\ChangeEmailDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:42:51.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Program.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Program.cs",
+              "RelativeToolTip": "ExpensesTracker\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T17:11:18.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RecurringExpenseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\RecurringExpenseRepo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Repository\\RecurringExpenseRepo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\RecurringExpenseRepo.cs",
+              "RelativeToolTip": "ExpensesTracker\\Repository\\RecurringExpenseRepo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:49:31.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Repository\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\GenericRepo.cs",
+              "RelativeToolTip": "ExpensesTracker\\Repository\\GenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:54:01.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CategoryConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\CategoryConfig.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Configuration\\CategoryConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\CategoryConfig.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Configuration\\CategoryConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T13:26:16.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\UserConfig.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Configuration\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\UserConfig.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Configuration\\UserConfig.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T14:35:40.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RegularExpenseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\RegularExpenseConfig.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Configuration\\RegularExpenseConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\RegularExpenseConfig.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Configuration\\RegularExpenseConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:16:05.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ItemConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\ItemConfig.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Configuration\\ItemConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\ItemConfig.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Configuration\\ItemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T16:38:08.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ExpenseConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\ExpenseConfig.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Configuration\\ExpenseConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\ExpenseConfig.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Configuration\\ExpenseConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T09:47:05.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\UserRepo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Repository\\UserRepo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\UserRepo.cs",
+              "RelativeToolTip": "ExpensesTracker\\Repository\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:51:51.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250922183421_UpdateItemExpenseRelationship.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250922183421_UpdateItemExpenseRelationship.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250922183421_UpdateItemExpenseRelationship.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250922183421_UpdateItemExpenseRelationship.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250922183421_UpdateItemExpenseRelationship.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T18:34:21.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Item.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Item.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Item.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T17:54:14.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Frequency.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Frequency.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Frequency.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Frequency.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Frequency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:05:47.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250922122234_updatePassConstraint.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250922122234_updatePassConstraint.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250922122234_updatePassConstraint.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250922122234_updatePassConstraint.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250922122234_updatePassConstraint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-22T12:22:34.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\appsettings.json",
+              "RelativeDocumentMoniker": "ExpensesTracker\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\appsettings.json",
+              "RelativeToolTip": "ExpensesTracker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-22T12:29:05.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ExpensesTracker.http",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\ExpensesTracker.http",
+              "RelativeDocumentMoniker": "ExpensesTracker\\ExpensesTracker.http",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\ExpensesTracker.http",
+              "RelativeToolTip": "ExpensesTracker\\ExpensesTracker.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-20T20:15:41.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SignUpDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\SignUpDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\UserDTOs\\SignUpDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\SignUpDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\UserDTOs\\SignUpDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:26:08.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "20250921164757_UpdateUserRecurringExpNameAndIdNames.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250921164757_UpdateUserRecurringExpNameAndIdNames.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250921164757_UpdateUserRecurringExpNameAndIdNames.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250921164757_UpdateUserRecurringExpNameAndIdNames.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250921164757_UpdateUserRecurringExpNameAndIdNames.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:47:57.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ExpenseRepo.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\ExpenseRepo.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Repository\\ExpenseRepo.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Repository\\ExpenseRepo.cs",
+              "RelativeToolTip": "ExpensesTracker\\Repository\\ExpenseRepo.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T14:12:14.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BudgetConfig.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\BudgetConfig.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Models\\Configuration\\BudgetConfig.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Models\\Configuration\\BudgetConfig.cs",
+              "RelativeToolTip": "ExpensesTracker\\Models\\Configuration\\BudgetConfig.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:24:38.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\UserDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\UserDTOs\\LoginDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\UserDTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T16:09:27.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RequestItemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ItemDTOs\\RequestItemDTO.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\DTO\\ItemDTOs\\RequestItemDTO.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\DTO\\ItemDTOs\\RequestItemDTO.cs",
+              "RelativeToolTip": "ExpensesTracker\\DTO\\ItemDTOs\\RequestItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T13:05:54.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "20250920201110_CreateFreqTable.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250920201110_CreateFreqTable.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250920201110_CreateFreqTable.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250920201110_CreateFreqTable.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250920201110_CreateFreqTable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T20:11:10.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250919212235_CreateRegularExpenseDBSet.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919212235_CreateRegularExpenseDBSet.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250919212235_CreateRegularExpenseDBSet.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919212235_CreateRegularExpenseDBSet.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250919212235_CreateRegularExpenseDBSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:22:36.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250919212540_EditRegularExpenseDBSetName.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919212540_EditRegularExpenseDBSetName.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250919212540_EditRegularExpenseDBSetName.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919212540_EditRegularExpenseDBSetName.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250919212540_EditRegularExpenseDBSetName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T21:25:41.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250919185352_CreateRegularExpense.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919185352_CreateRegularExpense.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250919185352_CreateRegularExpense.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919185352_CreateRegularExpense.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250919185352_CreateRegularExpense.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:53:52.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20250919185255_CreateRegularExpense.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919185255_CreateRegularExpense.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250919185255_CreateRegularExpense.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250919185255_CreateRegularExpense.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250919185255_CreateRegularExpense.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:52:55.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250916142508_UserBalanceAndBudgetCurrentLimit.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250916142508_UserBalanceAndBudgetCurrentLimit.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250916142508_UserBalanceAndBudgetCurrentLimit.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250916142508_UserBalanceAndBudgetCurrentLimit.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250916142508_UserBalanceAndBudgetCurrentLimit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T14:25:09.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250910160741_AddSpentInBudget.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250910160741_AddSpentInBudget.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250910160741_AddSpentInBudget.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250910160741_AddSpentInBudget.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250910160741_AddSpentInBudget.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T16:07:41.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250910140801_BudgetCategoryAndUserBudgetRelationsship.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250910140801_BudgetCategoryAndUserBudgetRelationsship.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250910140801_BudgetCategoryAndUserBudgetRelationsship.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250910140801_BudgetCategoryAndUserBudgetRelationsship.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250910140801_BudgetCategoryAndUserBudgetRelationsship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T14:08:01.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250909152921_M3.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250909152921_M3.cs",
+              "RelativeDocumentMoniker": "ExpensesTracker\\Migrations\\20250909152921_M3.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\ExpensesTracker\\ExpensesTracker\\Migrations\\20250909152921_M3.cs",
+              "RelativeToolTip": "ExpensesTracker\\Migrations\\20250909152921_M3.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T15:29:22.13Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
