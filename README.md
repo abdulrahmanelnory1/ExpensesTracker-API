@@ -100,21 +100,3 @@ The application implements a robust **Repository Pattern** combined with **Unit 
 `PUT    /api/users/change-income`        - Update user income amount (Requires Authorization)  
 `PUT    /api/users/income`               - Add additional income to user balance (Requires Authorization)
 
-## Database Schema
-
-### Core Entities
-- **Users** - Comprehensive user profiles, authentication details, and financial preferences
-- **Expenses** - Complete expense records with transaction dates and automatically calculated totals
-- **Items** - Individual expense line items with detailed categorization and pricing
-- **Categories** - Flexible classification system supporting both default and user-defined categories
-- **Budgets** - Advanced budget planning with time periods, limits, and real-time tracking                                      
-- **RecurringExpenses** - Automated transaction templates with scheduling configurations (weekly, monthly, yearly, daily intervals) inherits from Expense using TPT - Table Per Type inheritance
-
-
-### Strategic Relationships
-- **User → Expenses** (One-to-Many relationship)
-- **User → Budget** (One-to-One relationship)
-- **Expense → Items** (One-to-Many hierarchical relationship) 
-- **Item → Category** (Many-to-One classification relationship)
-- **Category → Budget** (One-to-Many planning relationship)
-- **RecurringExpense → Expense** (Inheritance relationship using TPT mapping strategy)
