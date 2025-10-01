@@ -108,7 +108,7 @@ The application implements a robust **Repository Pattern** combined with **Unit 
 - **Items** - Individual expense line items with detailed categorization and pricing
 - **Categories** - Flexible classification system supporting both default and user-defined categories
 - **Budgets** - Advanced budget planning with time periods, limits, and real-time tracking                                      
--- **RecurringExpenses** - Automated transaction templates with scheduling configurations (weekly, monthly, yearly, daily intervals) inherits from Expense using TPT - Table Per Type inheritance
+- **RecurringExpenses** - Automated transaction templates with scheduling configurations (weekly, monthly, yearly, daily intervals) inherits from Expense using TPT - Table Per Type inheritance
 
 ### Strategic Relationships
 - **User → Expenses** (One-to-Many relationship)
