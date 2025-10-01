@@ -1,6 +1,6 @@
-#Expenses Tracker - Personal Finance Management System
+# Expenses Tracker - Personal Finance Management System
 
-**A comprehensive personal finance management application built with ASP.NET Core Web API that helps users track their expenses, manage budgets, and maintain financial discipline. Features enterprise-grade architecture patterns and robust security implementation.**
+**A sophisticated RESTful API backend service built with ASP.NET Core that provides comprehensive personal finance management capabilities. This solution enables users to efficiently track expenses, manage budgets, and maintain financial discipline through secure, well-structured API endpoints. Features clean architecture patterns, JWT authentication, and robust data management.**
 
 ## Core Features
 
@@ -107,7 +107,7 @@ The application implements a robust **Repository Pattern** combined with **Unit 
 - **Expenses** - Complete expense records with transaction dates and automatically calculated totals
 - **Items** - Individual expense line items with detailed categorization and pricing
 - **Categories** - Flexible classification system supporting both default and user-defined categories
-- **Budgets** - Advanced budget planning with time periods, limits, and real-time tracking
+- **Budgets** - Advanced budget planning with time periods, limits, and real-time tracking                                      
 -- **RecurringExpenses** - Automated transaction templates with scheduling configurations (weekly, monthly, yearly, daily intervals) inherits from Expense using TPT - Table Per Type inheritance
 
 ### Strategic Relationships
