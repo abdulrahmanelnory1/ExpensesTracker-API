@@ -110,8 +110,10 @@ The application implements a robust **Repository Pattern** combined with **Unit 
 - **Budgets** - Advanced budget planning with time periods, limits, and real-time tracking                                      
 - **RecurringExpenses** - Automated transaction templates with scheduling configurations (weekly, monthly, yearly, daily intervals) inherits from Expense using TPT - Table Per Type inheritance
 
+
 ### Strategic Relationships
 - **User → Expenses** (One-to-Many relationship)
+- **User → Budget** (One-to-One relationship)
 - **Expense → Items** (One-to-Many hierarchical relationship) 
 - **Item → Category** (Many-to-One classification relationship)
 - **Category → Budget** (One-to-Many planning relationship)
