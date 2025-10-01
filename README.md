@@ -1,5 +1,6 @@
 #Expenses Tracker - Personal Finance Management System
-**A comprehensive personal finance management application built with ASP.NET Core Web API that helps users track their expenses, manage budgets, and maintain financial discipline. Features enterprise-grade architecture patterns and robust security implementation.
+
+**A comprehensive personal finance management application built with ASP.NET Core Web API that helps users track their expenses, manage budgets, and maintain financial discipline. Features enterprise-grade architecture patterns and robust security implementation.**
 
 ## Core Features
 
@@ -89,10 +90,10 @@ The application implements a robust **Repository Pattern** combined with **Unit 
 `DELETE /api/expenses/{id}`              - Delete expense and all associated items
 
 ### Category Endpoints
-`GET    /api/categories`                 - Get all categories (default + custom) with their associated budgets
-`GET    /api/categories/{id}`            - Get specific category details with its associated budget
-`POST   /api/categories`                 - Create new custom category with optional budget association
-`PUT    /api/categories/{id}`            - Update category information with ability to add or remove budget association  
+`GET    /api/categories`                 - Get all categories (default + custom) with their associated budgets                  
+`GET    /api/categories/{id}`            - Get specific category details with its associated budget                             
+`POST   /api/categories`                 - Create new custom category with optional budget association                          
+`PUT    /api/categories/{id}`            - Update category information with to ability to add or remove budget association       
 `DELETE /api/categories/{id}`            - Delete category with item reassignment
 
 ### User Endpoints
