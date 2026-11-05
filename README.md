@@ -1,5 +1,5 @@
 # Expenses Tracker - Personal Finance Management System
-**A comprehensive personal finance management application built with ASP.NET Core Web API that helps users track their expenses, manage budgets, and maintain financial discipline. Features enterprise-grade architecture patterns and robust security implementation. ASP.NET Core API and SQL Server 2022 — is fully containerized and orchestrated with Docker Compose, using a multi-stage Dockerfile, an explicit bridge network for service isolation, and a named volume for data persistence. The image is published publicly on GitHub Container Registry and can be pulled and run**
+**A comprehensive personal finance management application built with ASP.NET Core Web API that helps users track their expenses, manage budgets, and maintain financial discipline. Features enterprise-grade architecture patterns and robust security implementation. ASP.NET Core API and SQL Server 2022 — is fully containerized and orchestrated with Docker Compose, using a multi-stage Dockerfile, an explicit bridge network for service isolation, and a named volume for data persistence. The image is published publicly on GitHub Container Registry and can be pulled and run.**
 
 ## Run the Application
 
@@ -16,9 +16,15 @@ docker pull ghcr.io/abdulrahmanelnory1/expenses-tracker-api:1.0.0
 ```
  
 Verify the pull succeeded:
- 
+
 ```bash
 docker image ls --filter=reference="ghcr.io/abdulrahmanelnory1/expenses-tracker-api"
+```
+Expected output (the ID and size will differ):
+
+```text
+REPOSITORY                                         TAG       IMAGE ID       SIZE
+ghcr.io/abdulrahmanelnory1/expenses-tracker-api    1.0.0     <image-id>     a few hundred MB
 ```
 
 Because you are not cloning the repository, you also need the Compose file that describes how the two containers work together. Create an empty folder (for example `expenses-tracker`) and save this as `docker-compose.yml` inside it:
@@ -70,8 +76,8 @@ volumes:
 #### Option B - Clone the Source and Build Locally
  
 ```bash
-git clone https://github.com/abdulrahmanelnory1/ExpensesTracker.git
-cd ExpensesTracker
+git clone https://github.com/abdulrahmanelnory1/ExpensesTracker-API.git
+cd ExpensesTracker-API
 ```
  
 Build the image from the multi-stage Dockerfile:
@@ -102,7 +108,7 @@ SA_PASSWORD=YourStrong!Passw0rd123
 # .dockerignore
 .env
 ```
- 
+
 ### Step 3 - Start the Full Stack
  
 ```bash
@@ -113,6 +119,18 @@ If you chose Option B and want Compose to build the image from your local source
  
 ```bash
 docker compose up -d --build
+```
+
+### Step 4 - Verify the Stack Is Healthy
+
+```bash
+docker compose ps
+```
+
+#### Verify the API is responding
+
+```bash
+curl http://localhost:8080/swagger
 ```
 
 

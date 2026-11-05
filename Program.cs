@@ -27,12 +27,19 @@ namespace ExpensesTracker
             builder.Services.AddSwaggerGen();
             //builder.Services.AddScoped<IExpenseService, ExpenseService>();
 
+            var connectionString = builder.Configuration.GetConnectionString("ExpTracCon");
+            if (string.IsNullOrWhiteSpace(connectionString))
+            {
+                throw new InvalidOperationException(
+                    "The 'ExpTracCon' connection string is required. Set ConnectionStrings__ExpTracCon.");
+            }
+
             builder.Services.AddScoped<UserRepo>();
             //  builder.Services.AddScoped<ExpensesRepo>();
 
 
             builder.Services.AddDbContext<ExpensesTrackerContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("ExpTracCon")));
+                options.UseSqlServer(connectionString));
 
             builder.Services.AddScoped<CategoryRepo>();
             builder.Services.AddScoped<ExpenseRepo>();
@@ -76,6 +83,12 @@ namespace ExpensesTracker
             app.UseAuthorization();
 
             app.MapControllers();
+
+            using (var scope = app.Services.CreateScope())
+            {
+                var dbContext = scope.ServiceProvider.GetRequiredService<ExpensesTrackerContext>();
+                dbContext.Database.Migrate();
+            }
 
             app.Run();
         }
